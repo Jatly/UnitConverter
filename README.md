@@ -24,7 +24,7 @@ A **Python-based Unit Converter** with a GUI interface built using **Tkinter**. 
 ## Screenshots
 
 ![Screenshot of the Unit Converter GUI](pic.png)  
-*(Add an actual screenshot of your app here.)*
+
 
 ---
 
